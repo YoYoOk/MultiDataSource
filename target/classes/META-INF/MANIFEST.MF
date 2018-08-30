@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot-sharding-test
+Implementation-Version: 0.0.1
+Built-By: Administrator
+Implementation-Vendor-Id: com.yj.sharding
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/springboot-s
+ harding-test/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
